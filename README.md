@@ -1,2 +1,2 @@
 # desafio_dio
-Projetos Dio
+Aqui irei desponibilizar meus estudos na dio.
